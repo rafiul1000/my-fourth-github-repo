@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.aaa{
+    background-color: aqua;
+    border: 5px solid red;
+    border-radius: 5px 30px;
+    padding: 10px 20px;
+    text-align: justify;
+    margin: 20px 10px;
+    box-shadow: 10px 10px 20px yellowgreen;
+    
+}
+.hhh{
+    text-align: center;
+    color: #acacac;
+}
